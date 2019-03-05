@@ -1,0 +1,13 @@
+name: mlei
+
+base:
+  ubuntu: 16.04
+
+apt:
+  - libboost-all-dev
+  - libeigen3-dev
+  - libccd-dev
+  - libfcl-dev
+  - libassimp-dev
+  - realpath
+
